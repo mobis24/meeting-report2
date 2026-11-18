@@ -1,23 +1,5 @@
 {
-  "editor.tabSize": 2,
-  "editor.insertSpaces": true,
-  "files.eol": "\n",
-  "github.copilot.enable": {
-    "*": true,
-    "markdown": true
-  },
-  "chat.agent.sandbox.enabled": "on",
-  "chat.agent.sandbox.allowUnsandboxedCommands": false,
-  "chat.agent.sandbox.fileSystem.userConfiguredPaths": {
-    "deniedPaths": ["private"]
-  },
-  "accessibility.signals.chatResponseReceived": {
-    "sound": "on"
-  },
-  "accessibility.signals.chatUserActionRequired": {
-    "sound": "on"
-  }
+  "chat.agent.enabled": true,
+  "chat.automations.enabled": true,
+  "chat.automations.cloud.enabled": true
 }
-
-
-  
